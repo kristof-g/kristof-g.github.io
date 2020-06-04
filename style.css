@@ -1,0 +1,45 @@
+.site {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .quote {
+    background: grey;
+    width: 600px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  h1 {
+    font-family: 'Abril Fatface', cursive;
+    color: #222222;
+    margin: 0px;
+  }
+  
+  h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: #222222;
+    margin: 0px;
+  }
+  
+  .cover {
+    display: flex;
+    position: relative;
+    margin-bottom: 40px;
+  }
+  
+  .textonphoto {
+    position: absolute;
+    bottom: 10px;
+    left: 300px;
+    text-align: center;
+    display: inline;
+    color: white;
+  }
+  
+  .list {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #222222;
+  }
